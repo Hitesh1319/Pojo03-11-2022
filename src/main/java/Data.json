@@ -1,0 +1,84 @@
+{
+  "cars": [
+    {
+      "car": "Plymouth",
+      "colour": "Khaki"
+    },
+    {
+      "car": "Buick",
+      "colour": "Orange"
+    },
+    {
+      "car": "Nissan",
+      "colour": "Yellow"
+    },
+    {
+      "car": "Honda",
+      "colour": "Crimson"
+    },
+    {
+      "car": "Chevrolet",
+      "colour": "Orange"
+    },
+    {
+      "car": "Buick",
+      "colour": "Aquamarine"
+    },
+    {
+      "car": "Buick",
+      "colour": "Indigo"
+    },
+    {
+      "car": "Mercedes-Benz",
+      "colour": "Crimson"
+    },
+    {
+      "car": "Acura",
+      "colour": "Orange"
+    },
+    {
+      "car": "Chrysler",
+      "colour": "Red"
+    },
+    {
+      "car": "GMC",
+      "colour": "Aquamarine"
+    },
+    {
+      "car": "Mercedes-Benz",
+      "colour": "Teal"
+    },
+    {
+      "car": "Infinite",
+      "colour": "Khaki"
+    },
+    {
+      "car": "Kia",
+      "colour": "Pink"
+    },
+    {
+      "car": "Porsche",
+      "colour": "Maroon"
+    },
+    {
+      "car": "GMC",
+      "colour": "Goldenrod"
+    },
+    {
+      "car": "Dodge",
+      "colour": "Pink"
+    },
+    {
+      "car": "Chrysler",
+      "colour": "Green"
+    },
+    {
+      "car": "Mitsubishi",
+      "colour": "Turquoise"
+    },
+    {
+      "car": "Porsche",
+      "colour": "Khaki"
+    }
+  ]
+}
